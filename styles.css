@@ -1,3 +1,13 @@
 h1 {
   color: rebeccapurple;
 }
+
+main {
+  display: flex;
+  background-color: papayawhip;
+}
+
+.left-main {
+  display: flex;
+  flex-direction: column;
+}
